@@ -63,16 +63,16 @@ def MergeSort():
 def mergeSort(vector):
     if len(vector) > 1:
 
-        # Finding the mid of the vectoray
+
         mid = len(vector) // 2
 
-        # Dividing the vectoray elements
+    
         L = vector[:mid]
 
-        # into 2 halves
+
         R = vector[mid:]
 
-        # Sorting the first half
+        
         mergeSort(L)
 
         mergeSort(R)
