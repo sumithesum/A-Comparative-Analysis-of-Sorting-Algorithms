@@ -1,0 +1,24 @@
+Testul cu numarul :1
+<function RadixSort at 0x00000185F704F160>:2.5380986999999995 a sortat? True
+<function MergeSort at 0x00000185F707FF70>:6.219724199999999 a sortat? True
+<function ShellSort at 0x00000185F7069160>:233.65551960000002 a sortat? True
+<function InsertSort at 0x00000185F70690D0>:0.15609889999998927 a sortat? True
+<function CountingSort at 0x00000185F707FEE0>:0.35054920000001744 a sortat? True
+Testul cu numarul :2
+<function RadixSort at 0x00000185F704F160>:39.06270309999999 a sortat? True
+<function MergeSort at 0x00000185F707FF70>:66.52332989999996 a sortat? True
+<function ShellSort at 0x00000185F7069160>:84.77362729999999 a sortat? True
+<function InsertSort at 0x00000185F70690D0>:2.2448104000000058 a sortat? True
+<function CountingSort at 0x00000185F707FEE0>:7.314195799999993 a sortat? True
+Testul cu numarul :3
+<function RadixSort at 0x00000185F704F160>:1.2760410000000206 a sortat? True
+<function MergeSort at 0x00000185F707FF70>:5.152105900000038 a sortat? True
+<function ShellSort at 0x00000185F7069160>:210.19679740000004 a sortat? True
+<function InsertSort at 0x00000185F70690D0>:0.15478299999995215 a sortat? True
+<function CountingSort at 0x00000185F707FEE0>:0.3341199000000188 a sortat? True
+Testul cu numarul : 4
+<function RadixSort at 0x00000185F704F160>:3.2760410000000206 a sortat? True
+<function MergeSort at 0x00000185F707FF70>:7.152105900000038 a sortat? True
+<function ShellSort at 0x00000185F7069160>:212.19679740000004 a sortat? True
+<function InsertSort at 0x00000185F70690D0>:0.85478299999995215 a sortat? True
+<function CountingSort at 0x00000185F707FEE0>:1.3341199000000188 a sortat? True
